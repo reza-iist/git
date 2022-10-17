@@ -1,0 +1,28 @@
+
+		h1{
+			color:red;
+			}
+		div.cmt{
+			font-size:20px;
+			font-style:italic;
+			background:yellow!important;
+			color:red!important;
+			border:2px solid blue;
+		}
+		div.ent{
+			font-size:20px;
+			font-style:italic;
+			background:green!important;
+			
+			border:2px solid black;
+		}
+		#fff{
+			width:400px;
+			height:500px;
+			
+		}
+		.arc{
+			color:white!important;
+			}
+
+	

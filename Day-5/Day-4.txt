@@ -1,0 +1,23 @@
+Day- Topics
+# Add Bangla
+# Comments
+# Marquee
+# List UL, OL--LI
+# Create Table
+# Div Tag
+# CSS- Cascading Style Sheet
+	1. Inline <tagname style="Property:value">
+	2. Internal <style> Propertise:value </style>
+	3. External - Selector{properties:value} Link to head <link ref="stylesheet" href="style.css">
+# Selector-- All(*),Tags(h1,h2.p,img..),Class(.), ID(#)
+# Properties--Background,Padding, Margin,Color,font-size......
+# Code Editor 2 Type
+	1. Notepad
+	2. Dreamover
+	3. Sublime Text3
+	4. Bracket
+	5. Notepad++
+	6. VS Code
+# Install VS Code Editor
+# Use VS Code Editor
+# Home Task: Create a CV of you useing different block including inline css, internal css, external css with image of you with display:inline-block,education qualification in table,experience in ol-li
